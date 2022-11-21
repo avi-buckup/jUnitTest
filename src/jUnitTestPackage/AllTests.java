@@ -7,5 +7,5 @@ import org.junit.runners.Suite.SuiteClasses;
 @RunWith(Suite.class)
 @SuiteClasses({ testaddNum.class, testaddString.class })
 public class AllTests {
-
+	
 }
